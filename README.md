@@ -1,6 +1,6 @@
 # Hi, I'm Zulfi Nadhia Cahyani 👋
 
-**Data Analyst** with an **MSc in Environmental Engineering**, passionate about turning data into actionable insights.  
+**Data Analyst** with an **MSc in Environmental Engineering**, enthusiastic about transforming data into actionable insights.
 Skilled in **SQL, Python, Excel, BI tools (Tableau)**, and **Machine Learning**, with hands-on experience analyzing real-world datasets.  
 Experienced in building projects that combine analytics, visualization, and storytelling to support data-driven decisions.
 
