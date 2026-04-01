@@ -66,7 +66,7 @@ Experienced in building projects that combine analytics, visualization, and stor
 
 ---
 
-### 5. HR Employee Attrition Analysis
+### 5. HR Employee Attrition and Performance Analysis
 - **Tools:** SQL, Python  
 - **Description:** Analyzed HR data to uncover patterns in employee turnover, performance, satisfaction, salary, and career stage.  
 - **Key Insights:** Attrition is highest among early-career employees, high performers, and certain departments (Sales, HR, Technology), highlighting opportunities for targeted retention strategies.  
