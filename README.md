@@ -27,10 +27,10 @@ Experienced in building projects that combine analytics, visualization, and stor
 
 ## Featured Projects
 
-### 1. E-commerce Churn Prediction
+### 1. E-commerce Customer Churn Analysis and Prediction
 - **Tools:** Python, Machine Learning (Classification), Tableau  
 - **Description:** Developed a predictive model to identify customers likely to churn using features from demographics, engagement, transactions, platform preference, and satisfaction.  
-- **Key Insight:** A small segment of customers shows significantly higher churn risk, driven by low engagement, inactivity, and complaints.  
+- **Key Insight:** A small segment of customers shows significantly higher churn risk, driven by low engagement, inactivity, and complaints. CatBoost was identified as the best model for accurate predictions.   
 - **Business Value:** Enables targeted retention strategies and optimizing marketing spend.  
 - 🔗 **Repo:** [GitHub Repository](https://github.com/znadhiac/ecommerce-churn-prediction.git)
 - 📊 **Tableau:** [View Dashboard](https://public.tableau.com/views/E-CommerceChurnAnalysisDashboard_17746364684840/ChurnOverview)
@@ -59,14 +59,14 @@ Experienced in building projects that combine analytics, visualization, and stor
 ### 4. Daegu Apartment Price Prediction
 - **Tools:** Python, Machine Learning (Regression), Tableau  
 - **Description:** Developed a regression model to predict apartment prices in Daegu, South Korea, using historical transaction data and property/location features.  
-- **Key Insights:** Size, hallway type, proximity to subway stations, and nearby public facilities strongly influence price variations. XGBoost achieved MAE ₩35.1M, MAPE 17.5%, and R² 0.803.  
+- **Key Insights:** Apartment size, hallway type, proximity to subway stations, and nearby facilities strongly influence prices. XGBoost was identified as the best model for accurate price predictions, helping reduce mispricing and support faster sales.    
 - **Business Value:** Provides a data-driven pricing tool to reduce mispricing risk, support faster sales, and improve revenue for apartment owners.  
 - 🔗 **Repo:** [GitHub Repository](https://github.com/znadhiac/daegu-apartment-price-prediction.git)  
 - 📊 **Tableau Dashboard:** [Visualization](https://public.tableau.com/views/DaeguApartmentPriceDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
-## Additional Projects
+---
 
-### HR Employee Attrition Analysis
+### 5. HR Employee Attrition Analysis
 - **Tools:** SQL, Python  
 - **Description:** Analyzed HR data to uncover patterns in employee turnover, performance, satisfaction, salary, and career stage.  
 - **Key Insights:** Attrition is highest among early-career employees, high performers, and certain departments (Sales, HR, Technology), highlighting opportunities for targeted retention strategies.  
@@ -75,7 +75,7 @@ Experienced in building projects that combine analytics, visualization, and stor
 
 ---
 
-### Boutique Hotel Performance Analysis
+### 6. Boutique Hotel Performance Analysis
 - **Tools:** SQL, Python  
 - **Description:** Analyzed boutique hotel booking and revenue data to uncover customer demographics, room utilization, and seasonal trends.  
 - **Key Insights:** Older domestic guests dominate bookings; revenue peaks in specific months and seasons; premium rooms underutilized; credit cards preferred.  
