@@ -53,6 +53,7 @@ Experienced in building projects that combine analytics, visualization, and stor
 - **Key Insights:** Revenue is concentrated among high-value customers; April–May show peak revenue; São Paulo dominates sales; late deliveries negatively impact review scores; top product categories drive most revenue.  
 - **Business Value:** Informs marketing campaigns, retention strategies, product and regional focus, and delivery optimization.  
 - 🔗 **Repo:** [GitHub Repository](https://github.com/znadhiac/olist-ecommerce-sales-performance.git)
+- 📊 **Tableau:** [View Dashboard](https://public.tableau.com/views/OlistE-CommerceDashboard_17755755552510/SalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
