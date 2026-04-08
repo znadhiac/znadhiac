@@ -6,11 +6,11 @@
 
 ## Skills
 
-- **Data Analysis & Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-Learn), SQL (Joins, Aggregations, CTEs, Window Functions)
-- **Data Visualization & BI:** Tableau, Excel (Pivot Tables, VLOOKUP), Dashboard Development
+- **SQL:** Joins, Aggregations, CTEs, Window Functions
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
+- **Data Analysis:** Data Cleaning, Exploratory Data Analysis (EDA)
+- **Visualization:** Tableau, Excel (Pivot Tables, VLOOKUP/HLOOKUP), Dashboards
 - **Machine Learning:** Classification, Regression, Feature Engineering, Model Evaluation
-- **Data Handling:** Data Cleaning, Exploratory Data Analysis (EDA)
-- **Business & Analytical Skills:** Data Storytelling, Reporting, Business Analysis
 - **Tools:** Jupyter Notebook, Git, GitHub
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
