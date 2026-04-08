@@ -1,19 +1,17 @@
 # Hi, I'm Zulfi Nadhia Cahyani 👋
 
-**Data Analyst** with an **MSc in Environmental Engineering**, enthusiastic about transforming data into actionable insights.
-Skilled in **SQL, Python, Excel, Tableau**, and **Machine Learning**, with hands-on experience analyzing real-world datasets.  
-Experienced in building projects that combine analytics, visualization, and storytelling to support data-driven decisions.
+**Data Analyst** with an **MSc in Environmental Engineering**, experienced in analyzing real-world datasets using **SQL, Python, Excel,** and **Tableau**. Skilled in data cleaning, exploratory data analysis, visualization, and basic machine learning. I build end-to-end data projects, from data preparation to insight generation, focused on solving real-world problems through data.  
 
 ---
 
 ## Skills
 
-- **SQL**: Joins, Aggregations, CTEs, Window Functions, Data Modeling
-- **Python & Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, Data Cleaning, EDA
-- **Excel & BI Tools**: Pivot Tables, VLOOKUP/HLOOKUP, Dashboards, Tableau (Interactive Dashboards & Visualizations)
-- **Machine Learning**: Classification, Regression, Feature Engineering, Model Evaluation
-- **Other Tools**: Jupyter Notebook, Git/GitHub
-- **Soft Skills**: Data Storytelling, Reporting, Business Analysis
+- **Data Analysis & Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-Learn), SQL (Joins, Aggregations, CTEs, Window Functions)
+- **Data Visualization & BI:** Tableau, Excel (Pivot Tables, VLOOKUP), Dashboard Development
+- **Machine Learning:** Classification, Regression, Feature Engineering, Model Evaluation
+- **Data Handling:** Data Cleaning, Exploratory Data Analysis (EDA)
+- **Business & Analytical Skills:** Data Storytelling, Reporting, Business Analysis
+- **Tools:** Jupyter Notebook, Git, GitHub
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
