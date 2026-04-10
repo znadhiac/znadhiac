@@ -31,7 +31,7 @@
 - **Description:** Developed a machine learning classification model to predict customer churn using demographic, behavioral, and transactional data across multiple domains.  
 - **Key Insights:**  
   - High churn risk is driven by low engagement, inactivity, and customer complaints  
-  - CatBoost achieved the best performance with ~95% recall and ~0.90 F2-score  
+  - CatBoost achieved the best performance with 95% recall and 0.90 F2-score  
   - SHAP analysis revealed key behavioral patterns behind customer disengagement  
 - **Business Value:** Enables early churn detection, targeted retention strategies, and more efficient marketing spend.  
 
@@ -64,31 +64,32 @@
 
 ---
 
-### 4. A Machine Learning Approach for Apartment Price Modeling and Optimization in Daegu
-- **Tools:** Python, Machine Learning (Regression), Tableau  
-- **Description:** Developed a regression model to predict apartment prices in Daegu, South Korea, using historical transaction data and property/location features.  
-- **Key Insights:** Apartment size, hallway type, proximity to subway stations, and nearby facilities strongly influence prices. XGBoost was identified as the best model for accurate price predictions, helping reduce mispricing and support faster sales.    
-- **Business Value:** Provides a data-driven pricing tool to reduce mispricing risk, support faster sales, and improve revenue for apartment owners.  
-- 🔗 **Repo:** [GitHub Repository](https://github.com/znadhiac/daegu-apartment-price-prediction.git)  
-- 📊 **Tableau Dashboard:** [Visualization](https://public.tableau.com/views/DaeguApartmentPriceDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+### 4. Daegu Apartment Price Prediction and Optimization  
+🔗 [GitHub Repository](https://github.com/znadhiac/daegu-apartment-price-prediction.git) | [Tableau Dashboard](https://public.tableau.com/views/DaeguApartmentPriceDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+- **Tools:** Python (Pandas, NumPy), Scikit-learn, XGBoost, Tableau   
+- **Description:** Developed and benchmarked multiple regression models to predict apartment prices in Daegu using historical transaction and property data, including feature engineering, preprocessing, and hyperparameter tuning.  
+- **Key Insights:**  
+  - Apartment size, location accessibility, and nearby facilities are the strongest drivers of price  
+  - XGBoost achieved the best performance (MAE: ₩35.1M, MAPE: 17.5%, R²: 0.803), outperforming baseline models  
+- **Business Value:** Enables data-driven pricing decisions, reducing mispricing risk by up to 36–47% and supporting faster, more accurate property sales.  
 
 ---
 
-### 5. HR Employee Attrition and Performance Analysis
-- **Tools:** SQL, Python  
+### 5. HR Employee Attrition and Performance Analysis  
+🔗 [GitHub Repository](https://github.com/znadhiac/hr-employee-attrition-analysis.git)  
+- **Tools:** SQL, Python (Pandas, NumPy)  
 - **Description:** Analyzed HR data to uncover patterns in employee turnover, performance, satisfaction, salary, and career stage.  
 - **Key Insights:** Attrition is highest among early-career employees, high performers, and certain departments (Sales, HR, Technology), highlighting opportunities for targeted retention strategies.  
 - **Business Value:** Informs workforce planning, compensation adjustments, career development, and proactive attrition risk monitoring.  
-- 🔗 **Repo:** [GitHub Repository](https://github.com/znadhiac/hr-employee-attrition-analysis.git)
 
 ---
 
-### 6. Boutique Hotel Performance Analysis
-- **Tools:** SQL, Python  
+### 6. Boutique Hotel Performance Analysis  
+🔗 [GitHub Repository](https://github.com/znadhiac/boutique_hotel_performance_analysis.git)  
+- **Tools:** SQL, Python (Pandas, NumPy)   
 - **Description:** Analyzed boutique hotel booking and revenue data to uncover customer demographics, room utilization, and seasonal trends.  
 - **Key Insights:** Older domestic guests dominate bookings; revenue peaks in specific months and seasons; premium rooms underutilized; credit cards preferred.  
 - **Business Value:** Supports pricing optimization, occupancy improvement, targeted marketing, and digital payment adoption.  
-- 🔗 **Repo:** [GitHub Repository](https://github.com/znadhiac/boutique_hotel_performance_analysis.git)
 
 ---
 
