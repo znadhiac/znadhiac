@@ -25,13 +25,15 @@
 
 ## Featured Projects
 
-### 1. E-commerce Customer Churn Analysis and Prediction
-- **Tools:** Python, Machine Learning (Classification), Tableau  
-- **Description:** Developed a predictive model to identify customers likely to churn using features from demographics, engagement, transactions, platform preference, and satisfaction.  
-- **Key Insight:** A small segment of customers shows significantly higher churn risk, driven by low engagement, inactivity, and complaints. CatBoost was identified as the best model for accurate predictions.   
-- **Business Value:** Enables targeted retention strategies and optimizing marketing spend.  
-- 🔗 **Repo:** [GitHub Repository](https://github.com/znadhiac/ecommerce-churn-prediction.git)
-- 📊 **Tableau:** [View Dashboard](https://public.tableau.com/views/E-CommerceChurnAnalysisDashboard_17746364684840/ChurnOverview)
+### 1. E-commerce Customer Churn Analysis and Prediction  
+🔗 [GitHub Repository](https://github.com/znadhiac/ecommerce-churn-prediction.git) | [Tableau Dashboard](https://public.tableau.com/views/E-CommerceChurnAnalysisDashboard_17746364684840/ChurnOverview)
+- **Tools:** Python, Scikit-learn, CatBoost, Tableau  
+- **Description:** Developed a machine learning classification model to predict customer churn using demographic, behavioral, and transactional data across multiple domains.  
+- **Key Insights:**  
+  - High churn risk is driven by low engagement, inactivity, and customer complaints  
+  - CatBoost achieved the best performance with ~95% recall and ~0.90 F2-score  
+  - SHAP analysis revealed key behavioral patterns behind customer disengagement  
+- **Business Value:** Enables early churn detection, targeted retention strategies, and more efficient marketing spend  
 
 ---
 
