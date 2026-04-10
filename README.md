@@ -27,23 +27,26 @@
 
 ### 1. E-commerce Customer Churn Analysis and Prediction  
 🔗 [GitHub Repository](https://github.com/znadhiac/ecommerce-churn-prediction.git) | [Tableau Dashboard](https://public.tableau.com/views/E-CommerceChurnAnalysisDashboard_17746364684840/ChurnOverview)
-- **Tools:** Python, Scikit-learn, CatBoost, Tableau  
+- **Tools:** Python (Pandas, NumPy), Scikit-learn, CatBoost, Tableau  
 - **Description:** Developed a machine learning classification model to predict customer churn using demographic, behavioral, and transactional data across multiple domains.  
 - **Key Insights:**  
   - High churn risk is driven by low engagement, inactivity, and customer complaints  
   - CatBoost achieved the best performance with ~95% recall and ~0.90 F2-score  
   - SHAP analysis revealed key behavioral patterns behind customer disengagement  
-- **Business Value:** Enables early churn detection, targeted retention strategies, and more efficient marketing spend  
+- **Business Value:** Enables early churn detection, targeted retention strategies, and more efficient marketing spend.  
 
 ---
 
-### 2. A Data-Driven Analysis for Improving NYC Green Taxi Services
-- **Tools:** Python, Tableau  
-- **Description:** Analyzed taxi trip data to identify demand patterns, fare drivers, and passenger behavior.  
-- **Key Insights:** Peak demand occurs during weekday commuting hours; Manhattan dominates pickups; trip distance strongly drives fares; most trips are solo and paid digitally.  
-- **Business Value:** Supports optimized fleet allocation, fare strategy, and ride-sharing or service planning.  
-- 🔗 **Repo:** [GitHub Repository](https://github.com/znadhiac/nyc-green-taxi-analysis.git)
-- 📊 **Tableau:** [View Dashboard](https://public.tableau.com/views/NYCTLCGreenTaxiDashboard/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### 2. NYC Green Taxi Demand and Operations Analysis  
+🔗 [GitHub Repository](https://github.com/znadhiac/nyc-green-taxi-analysis.git) | [Tableau Dashboard](https://public.tableau.com/views/NYCTLCGreenTaxiDashboard/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+- **Tools:** Python (Pandas, NumPy), Tableau  
+- **Description:** Analyzed NYC Green Taxi trip data to uncover demand patterns, fare drivers, and passenger behavior for operational optimization.  
+- **Key Insights:** 
+  - Peak demand occurs during weekday commuting hours (7–9 AM, 3–6 PM)  
+  - Manhattan accounts for over 60% of total pickups, with strong zone-level concentration  
+  - Trip distance is the primary fare driver (correlation ≈ 0.86), while duration has minimal impact  
+  - Most trips are single-passenger (~87%) and predominantly paid via card (~65%)  
+- **Business Value:** Enables data-driven fleet allocation, targeted pricing strategies, and service optimization based on demand patterns and customer behavior.  
 
 ---
 
