@@ -35,7 +35,7 @@
 
 ---
 
-### 2. NYC Green Taxi Analysis
+### 2. A Data-Driven Analysis for Improving NYC Green Taxi Services
 - **Tools:** Python, Tableau  
 - **Description:** Analyzed taxi trip data to identify demand patterns, fare drivers, and passenger behavior.  
 - **Key Insights:** Peak demand occurs during weekday commuting hours; Manhattan dominates pickups; trip distance strongly drives fares; most trips are solo and paid digitally.  
@@ -55,7 +55,7 @@
 
 ---
 
-### 4. Daegu Apartment Price Prediction
+### 4. A Machine Learning Approach for Apartment Price Modeling and Optimization in Daegu
 - **Tools:** Python, Machine Learning (Regression), Tableau  
 - **Description:** Developed a regression model to predict apartment prices in Daegu, South Korea, using historical transaction data and property/location features.  
 - **Key Insights:** Apartment size, hallway type, proximity to subway stations, and nearby facilities strongly influence prices. XGBoost was identified as the best model for accurate price predictions, helping reduce mispricing and support faster sales.    
