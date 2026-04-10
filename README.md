@@ -42,21 +42,25 @@
 - **Tools:** Python (Pandas, NumPy), Tableau  
 - **Description:** Analyzed NYC Green Taxi trip data to uncover demand patterns, fare drivers, and passenger behavior for operational optimization.  
 - **Key Insights:** 
-  - Peak demand occurs during weekday commuting hours (7–9 AM, 3–6 PM)  
-  - Manhattan accounts for over 60% of total pickups, with strong zone-level concentration  
-  - Trip distance is the primary fare driver (correlation ≈ 0.86), while duration has minimal impact  
-  - Most trips are single-passenger (~87%) and predominantly paid via card (~65%)  
+  - Demand: Peak during weekday commuting hours (7–9 AM, 3–6 PM)  
+  - Location: Manhattan accounts for >60% of pickups, with strong zone-level concentration  
+  - Fare Drivers: Trip distance strongly influences fare (r ≈ 0.86), while duration has minimal impact  
+  - Customer Behavior: Most trips are single-passenger (~87%) and predominantly paid via card (~65%) 
 - **Business Value:** Enables data-driven fleet allocation, targeted pricing strategies, and service optimization based on demand patterns and customer behavior.  
 
 ---
 
-### 3. Olist E-commerce Sales Performance
-- **Tools:** SQL, Python  
-- **Description:** Conducted SQL-based analysis of 2018 Olist e-commerce data to evaluate sales trends, customer behavior, delivery efficiency, and satisfaction.  
-- **Key Insights:** Revenue is concentrated among high-value customers; April–May show peak revenue; São Paulo dominates sales; late deliveries negatively impact review scores; top product categories drive most revenue.  
-- **Business Value:** Informs marketing campaigns, retention strategies, product and regional focus, and delivery optimization.  
-- 🔗 **Repo:** [GitHub Repository](https://github.com/znadhiac/olist-ecommerce-sales-performance.git)
-- 📊 **Tableau:** [View Dashboard](https://public.tableau.com/views/OlistE-CommerceDashboard_17755755552510/SalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### 3. Olist Brazilian E-commerce Sales Performance Analysis  
+🔗 [GitHub Repository](https://github.com/znadhiac/olist-ecommerce-sales-performance.git) | [Tableau Dashboard](https://public.tableau.com/views/OlistE-CommerceDashboard_17755755552510/SalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+- **Tools:** SQL, Python (Pandas, NumPy), Tableau  
+- **Description:** Conducted SQL-based analysis of 2018 Olist e-commerce data to evaluate sales trends, customer behavior, delivery efficiency, and customer satisfaction.  
+- **Key Insights:**  
+  - Revenue: Peaks in April ($965K) and May ($974K), driven by higher average order value  
+  - Customers: Revenue concentrated among a small segment of high-value customers  
+  - Regional: São Paulo dominates total revenue, while low-volume states show high AOV potential  
+  - Operations: ~4,900 late deliveries with average delivery time of ~12 days  
+  - Satisfaction: Delivery delays strongly correlate with lower review scores  
+- **Business Value:** Supports targeted marketing, high-value customer retention, regional expansion strategies, and delivery performance optimization.
 
 ---
 
