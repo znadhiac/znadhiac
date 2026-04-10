@@ -1,6 +1,6 @@
 # Hi, I'm Zulfi Nadhia Cahyani 👋
 
-**Data Analyst** with an **MSc in Environmental Engineering**, experienced in transforming real-world data into actionable business insights using **SQL, Python, Excel,** and **Tableau**. Skilled in data cleaning, exploratory data analysis, visualization, and foundational machine learning. I build end-to-end data projects, from data preparation to insight generation, focused on solving real-world problems through data.  
+**Data Analyst** with an **MSc in Environmental Engineering**, specializing in transforming real-world data into actionable business insights using **SQL, Python, Excel,** and **Tableau**. Experienced in end-to-end analytics, including data cleaning, exploratory analysis, machine learning, and dashboarding, to support data-driven decision-making across various business functions.
 
 ---
 
@@ -28,7 +28,7 @@
 ### 1. E-commerce Customer Churn Analysis and Prediction  
 🔗 [GitHub Repository](https://github.com/znadhiac/ecommerce-churn-prediction.git) | [Tableau Dashboard](https://public.tableau.com/views/E-CommerceChurnAnalysisDashboard_17746364684840/ChurnOverview)
 - **Tools:** Python (Pandas, NumPy), Scikit-learn, CatBoost, Tableau  
-- **Description:** Developed a machine learning classification model to predict customer churn using demographic, behavioral, and transactional data across multiple domains.  
+- **Description:** Developed a machine learning classification model to predict customer churn using demographic, behavioral, and transactional data.  
 - **Key Insights:**  
   - High churn risk is driven by low engagement, inactivity, and customer complaints  
   - CatBoost achieved the best performance with 95% recall and 0.90 F2-score  
