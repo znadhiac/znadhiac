@@ -45,7 +45,7 @@
   - Peak demand occurs during weekday commuting hours (7–9 AM, 3–6 PM)  
   - Manhattan accounts for over 60% of pickups, with strong zone-level concentration  
   - Trip distance is the primary fare driver (r ≈ 0.86), while duration has minimal impact  
-  - Most trips are single-passenger (~87%) and predominantly paid via card (~65%)
+  - Most trips are single-passenger (87%) and predominantly paid via card (65%)
 - **Business Value:** Enables data-driven fleet allocation, targeted pricing strategies, and service optimization based on demand patterns and customer behavior.  
 
 ---
@@ -77,7 +77,8 @@
 ### 5. HR Employee Attrition and Performance Analysis  
 🔗 [GitHub Repository](https://github.com/znadhiac/hr-employee-attrition-analysis.git)  
 - **Tools:** SQL, Python (Pandas, NumPy)  
-- **Description:** Analyzed HR data to uncover patterns in employee attrition, performance, satisfaction, compensation, and career progression to support data-driven retention strategies.  - **Key Insights:**  
+- **Description:** Analyzed HR data to uncover patterns in employee attrition, performance, satisfaction, compensation, and career progression to support data-driven retention strategies.  
+- **Key Insights:**  
   - Attrition rate is 16.1%, with over 90% of exits coming from employees aged 18–35  
   - High performers show the highest attrition rates (~27%), indicating risk of losing top talent  
   - Attrition is concentrated in Sales, HR, and early-career employees, with lower-salary groups contributing over 90% of total exits  
