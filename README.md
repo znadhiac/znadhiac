@@ -1,6 +1,6 @@
 # Hi, I'm Zulfi Nadhia Cahyani 👋
 
-**Data Analyst** with an **MSc in Environmental Engineering**, experienced in analyzing real-world datasets using **SQL, Python, Excel,** and **Tableau**. Skilled in data cleaning, exploratory data analysis, visualization, and foundational machine learning. I build end-to-end data projects, from data preparation to insight generation, focused on solving real-world problems through data.  
+**Data Analyst** with an **MSc in Environmental Engineering**, experienced in transforming real-world data into actionable business insights using **SQL, Python, Excel,** and **Tableau**. Skilled in data cleaning, exploratory data analysis, visualization, and foundational machine learning. I build end-to-end data projects, from data preparation to insight generation, focused on solving real-world problems through data.  
 
 ---
 
@@ -10,7 +10,7 @@
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
 - **Data Analysis:** Data Cleaning, Exploratory Data Analysis (EDA)
 - **Visualization:** Tableau, Excel (Pivot Tables, VLOOKUP/HLOOKUP), Dashboards
-- **Machine Learning:** Classification, Regression, Feature Engineering, Model Evaluation
+- **Machine Learning:** Classification, Regression, Feature Engineering, Model Evaluation, SHAP
 - **Tools:** Jupyter Notebook, Git, GitHub
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,10 +42,10 @@
 - **Tools:** Python (Pandas, NumPy), Tableau  
 - **Description:** Analyzed NYC Green Taxi trip data to uncover demand patterns, fare drivers, and passenger behavior for operational optimization.  
 - **Key Insights:** 
-  - Demand: Peak during weekday commuting hours (7–9 AM, 3–6 PM)  
-  - Location: Manhattan accounts for >60% of pickups, with strong zone-level concentration  
-  - Fare Drivers: Trip distance strongly influences fare (r ≈ 0.86), while duration has minimal impact  
-  - Customer Behavior: Most trips are single-passenger (~87%) and predominantly paid via card (~65%) 
+  - Peak demand occurs during weekday commuting hours (7–9 AM, 3–6 PM)  
+  - Manhattan accounts for over 60% of pickups, with strong zone-level concentration  
+  - Trip distance is the primary fare driver (r ≈ 0.86), while duration has minimal impact  
+  - Most trips are single-passenger (~87%) and predominantly paid via card (~65%)
 - **Business Value:** Enables data-driven fleet allocation, targeted pricing strategies, and service optimization based on demand patterns and customer behavior.  
 
 ---
@@ -55,11 +55,10 @@
 - **Tools:** SQL, Python (Pandas, NumPy), Tableau  
 - **Description:** Conducted SQL-based analysis of 2018 Olist e-commerce data to evaluate sales trends, customer behavior, delivery efficiency, and customer satisfaction.  
 - **Key Insights:**  
-  - Revenue: Peaks in April ($965K) and May ($974K), driven by higher average order value  
-  - Customers: Revenue concentrated among a small segment of high-value customers  
-  - Regional: São Paulo dominates total revenue, while low-volume states show high AOV potential  
-  - Operations: ~4,900 late deliveries with average delivery time of ~12 days  
-  - Satisfaction: Delivery delays strongly correlate with lower review scores  
+  - Revenue peaks in April ($965K) and May ($974K), driven by higher average order value   
+  - Revenue is concentrated among a small segment of high-value customers  
+  - São Paulo dominates total revenue, while low-volume states show high AOV potential  
+  - Approximately 4,900 late deliveries contribute to lower customer satisfaction  
 - **Business Value:** Supports targeted marketing, high-value customer retention, regional expansion strategies, and delivery performance optimization.
 
 ---
@@ -67,7 +66,7 @@
 ### 4. Daegu Apartment Price Prediction and Optimization  
 🔗 [GitHub Repository](https://github.com/znadhiac/daegu-apartment-price-prediction.git) | [Tableau Dashboard](https://public.tableau.com/views/DaeguApartmentPriceDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 - **Tools:** Python (Pandas, NumPy), Scikit-learn, XGBoost, Tableau   
-- **Description:** Developed and benchmarked multiple regression models to predict apartment prices in Daegu using historical transaction and property data, including feature engineering, preprocessing, and hyperparameter tuning.  
+- **Description:** Developed and benchmarked regression models to predict apartment prices in Daegu using historical transaction and property data, including feature engineering, preprocessing, and hyperparameter tuning.  
 - **Key Insights:**  
   - Apartment size, location accessibility, and nearby facilities are the strongest drivers of price  
   - XGBoost achieved the best performance (MAE: ₩35.1M, MAPE: 17.5%, R²: 0.803), outperforming baseline models  
@@ -78,8 +77,7 @@
 ### 5. HR Employee Attrition and Performance Analysis  
 🔗 [GitHub Repository](https://github.com/znadhiac/hr-employee-attrition-analysis.git)  
 - **Tools:** SQL, Python (Pandas, NumPy)  
-- **Description:** Analyzed HR data to uncover patterns in employee attrition, performance, satisfaction, compensation, and career progression to support data-driven retention strategies.   
-- **Key Insights:**  
+- **Description:** Analyzed HR data to uncover patterns in employee attrition, performance, satisfaction, compensation, and career progression to support data-driven retention strategies.  - **Key Insights:**  
   - Attrition rate is 16.1%, with over 90% of exits coming from employees aged 18–35  
   - High performers show the highest attrition rates (~27%), indicating risk of losing top talent  
   - Attrition is concentrated in Sales, HR, and early-career employees, with lower-salary groups contributing over 90% of total exits  
@@ -95,7 +93,7 @@
   - Guests aged 56+ account for ~54% of bookings, with domestic travelers (~55%) as the primary market  
   - Single Rooms are fully occupied (100%) while premium rooms (Suites, Family) generate higher revenue per booking but remain underutilized  
   - Demand peaks in June and declines in September, highlighting clear seasonal revenue opportunities  
-  - Credit cards dominate payments (~50%), with cash still significant (~30%)  
+  - Credit cards dominate payments (~50%), with cash still widely used (~30%)  
 - **Business Value:** Supports pricing optimization, improved room utilization, targeted marketing strategies, and data-driven seasonal revenue management.  
 
 ---
