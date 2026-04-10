@@ -78,18 +78,25 @@
 ### 5. HR Employee Attrition and Performance Analysis  
 🔗 [GitHub Repository](https://github.com/znadhiac/hr-employee-attrition-analysis.git)  
 - **Tools:** SQL, Python (Pandas, NumPy)  
-- **Description:** Analyzed HR data to uncover patterns in employee turnover, performance, satisfaction, salary, and career stage.  
-- **Key Insights:** Attrition is highest among early-career employees, high performers, and certain departments (Sales, HR, Technology), highlighting opportunities for targeted retention strategies.  
-- **Business Value:** Informs workforce planning, compensation adjustments, career development, and proactive attrition risk monitoring.  
+- **Description:** Analyzed HR data to uncover patterns in employee attrition, performance, satisfaction, compensation, and career progression to support data-driven retention strategies.   
+- **Key Insights:**  
+  - Attrition rate is 16.1%, with over 90% of exits coming from employees aged 18–35  
+  - High performers show the highest attrition rates (~27%), indicating risk of losing top talent  
+  - Attrition is concentrated in Sales, HR, and early-career employees, with lower-salary groups contributing over 90% of total exits  
+- **Business Value:** Enables targeted retention strategies through early-career support, compensation optimization, and proactive identification of high-risk employee segments.  
 
 ---
 
 ### 6. Boutique Hotel Performance Analysis  
 🔗 [GitHub Repository](https://github.com/znadhiac/boutique_hotel_performance_analysis.git)  
 - **Tools:** SQL, Python (Pandas, NumPy)   
-- **Description:** Analyzed boutique hotel booking and revenue data to uncover customer demographics, room utilization, and seasonal trends.  
-- **Key Insights:** Older domestic guests dominate bookings; revenue peaks in specific months and seasons; premium rooms underutilized; credit cards preferred.  
-- **Business Value:** Supports pricing optimization, occupancy improvement, targeted marketing, and digital payment adoption.  
+- **Description:** Analyzed Boutique Hotel booking and revenue data to evaluate customer demographics, room utilization, and seasonal demand patterns for operational and pricing optimization.   
+- **Key Insights:** 
+  - Guests aged 56+ account for ~54% of bookings, with domestic travelers (~55%) as the primary market  
+  - Single Rooms are fully occupied (100%) while premium rooms (Suites, Family) generate higher revenue per booking but remain underutilized  
+  - Demand peaks in June and declines in September, highlighting clear seasonal revenue opportunities  
+  - Credit cards dominate payments (~50%), with cash still significant (~30%)  
+- **Business Value:** Supports pricing optimization, improved room utilization, targeted marketing strategies, and data-driven seasonal revenue management.  
 
 ---
 
