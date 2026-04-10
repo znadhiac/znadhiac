@@ -40,7 +40,7 @@
 ### 2. NYC Green Taxi Demand and Operations Analysis  
 🔗 [GitHub Repository](https://github.com/znadhiac/nyc-green-taxi-analysis.git) | [Tableau Dashboard](https://public.tableau.com/views/NYCTLCGreenTaxiDashboard/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 - **Tools:** Python (Pandas, NumPy), Tableau  
-- **Description:** Analyzed NYC Green Taxi trip data to uncover demand patterns, fare drivers, and passenger behavior for operational optimization.  
+- **Description:** Analyzed NYC Green Taxi trip data from January 2023 to uncover demand patterns, fare drivers, and passenger behavior for operational optimization.  
 - **Key Insights:** 
   - Peak demand occurs during weekday commuting hours (7–9 AM, 3–6 PM)  
   - Manhattan accounts for over 60% of pickups, with strong zone-level concentration  
@@ -66,7 +66,7 @@
 ### 4. Daegu Apartment Price Prediction and Optimization  
 🔗 [GitHub Repository](https://github.com/znadhiac/daegu-apartment-price-prediction.git) | [Tableau Dashboard](https://public.tableau.com/views/DaeguApartmentPriceDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 - **Tools:** Python (Pandas, NumPy), Scikit-learn, XGBoost, Tableau   
-- **Description:** Developed and benchmarked regression models to predict apartment prices in Daegu using historical transaction and property data, including feature engineering, preprocessing, and hyperparameter tuning.  
+- **Description:** Developed and benchmarked regression models to predict apartment prices in Daegu using transaction data from 1978 to 2015, including feature engineering, preprocessing, and hyperparameter tuning.  
 - **Key Insights:**  
   - Apartment size, location accessibility, and nearby facilities are the strongest drivers of price  
   - XGBoost achieved the best performance (MAE: ₩35.1M, MAPE: 17.5%, R²: 0.803), outperforming baseline models  
