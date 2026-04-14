@@ -26,7 +26,7 @@
 ## Featured Projects
 
 ### 1. E-commerce Customer Churn Analysis and Prediction  
-🔗 [GitHub Repository](https://github.com/znadhiac/ecommerce-churn-prediction.git) | [Tableau Dashboard](https://public.tableau.com/views/E-CommerceChurnAnalysisDashboard_17746364684840/ChurnOverview)
+🔗 [GitHub Repository](https://github.com/znadhiac/ecommerce-churn-prediction.git) | [Tableau Dashboard](https://public.tableau.com/views/E-CommerceChurnAnalysisDashboard_17746364684840/ChurnOverview) | [Presentation](https://drive.google.com/file/d/1TbOq4pZRSRIKp4nKiCjlWT1-yqH-KfxM/view?usp=sharing)
 - **Tools:** Python (Pandas, NumPy), Scikit-learn, CatBoost, Tableau  
 - **Description:** Developed a machine learning classification model to predict customer churn using demographic, behavioral, and transactional data.  
 - **Key Insights:**  
@@ -38,7 +38,7 @@
 ---
 
 ### 2. NYC Green Taxi Demand and Operations Analysis  
-🔗 [GitHub Repository](https://github.com/znadhiac/nyc-green-taxi-analysis.git) | [Tableau Dashboard](https://public.tableau.com/views/NYCTLCGreenTaxiDashboard/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+🔗 [GitHub Repository](https://github.com/znadhiac/nyc-green-taxi-analysis.git) | [Tableau Dashboard](https://public.tableau.com/views/NYCTLCGreenTaxiDashboard/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [Presentation](https://drive.google.com/file/d/1KC55HyZ9s-FUG-ONoEPcatwGc1eQiAgP/view?usp=sharing)   
 - **Tools:** Python (Pandas, NumPy), Tableau  
 - **Description:** Analyzed NYC Green Taxi trip data from January 2023 to uncover demand patterns, fare drivers, and passenger behavior for operational optimization.  
 - **Key Insights:** 
@@ -64,7 +64,7 @@
 ---
 
 ### 4. Daegu Apartment Price Prediction and Optimization  
-🔗 [GitHub Repository](https://github.com/znadhiac/daegu-apartment-price-prediction.git) | [Tableau Dashboard](https://public.tableau.com/views/DaeguApartmentPriceDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+🔗 [GitHub Repository](https://github.com/znadhiac/daegu-apartment-price-prediction.git) | [Tableau Dashboard](https://public.tableau.com/views/DaeguApartmentPriceDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [Presentation](https://drive.google.com/file/d/1MV1pcZhKR3tAoh8X0I2kzFa-FmbAF8cV/view?usp=sharing)   
 - **Tools:** Python (Pandas, NumPy), Scikit-learn, XGBoost, Tableau   
 - **Description:** Developed and benchmarked regression models to predict apartment prices in Daegu using transaction data from 1978 to 2015, including feature engineering, preprocessing, and hyperparameter tuning.  
 - **Key Insights:**  
