@@ -103,3 +103,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/znadhiac)  
 - [Tableau Public](https://public.tableau.com/app/profile/znadhiac)
+- [Portfolio](https://zulfinadhiac.my.canva.site/)
